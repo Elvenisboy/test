@@ -7,8 +7,5 @@ cache:
   directories:
   - node_modules
 
-install:
-  - yarn install
-
 script:
   - npm run test
